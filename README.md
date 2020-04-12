@@ -84,7 +84,7 @@ Linux 🐧?
 ![run][41]
 
 [40]:https://github.com/Hagar-Usama/Paint-Project/blob/master/PaintTrial_27.4.6.08/images/boo.png
-[41]:40]:https://github.com/Hagar-Usama/Paint-Project/blob/master/PaintTrial_27.4.6.08/images/paint_4.gif
+[41]:https://github.com/Hagar-Usama/Paint-Project/blob/master/PaintTrial_27.4.6.08/images/paint_4.gif
 
 
 ---
@@ -93,6 +93,7 @@ Linux 🐧?
 * [ ] fix Bug [0001]
 * [ ] fix Bug [0002]
 * [ ] fix Bug [0003]
+* [ ] replace text by icons
 
 ---
 
